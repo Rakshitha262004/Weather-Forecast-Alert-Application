@@ -142,12 +142,10 @@ streamlit run streamlit_app.py
 | Feature | Preview |
 |---|---|
 | Dashboard Home | ![Dashboard](outputs/dashboard1.png)
-![Dashboard](outputs/dashboard2.png)
-![Dashboard](outputs/dashboard3.png)
-![Dashboard](outputs/dashboard4.png)
-![Dashboard](outputs/dashboard5.png)
-![Dashboard](outputs/dashboard6.png)
-![Dashboard](outputs/dashboard7.png)|
+| ![Dashboard](outputs/dashboard2.png) | ![Dashboard](outputs/dashboard3.png)
+| ![Dashboard](outputs/dashboard4.png) | ![Dashboard](outputs/dashboard5.png)
+| ![Dashboard](outputs/dashboard6.png) | ![Dashboard](outputs/dashboard7.png)|
+
 
 | Temperature Chart | ![Temp](outputs/temperature_chart.png) |
 | Humidity Chart | ![humidity](outputs/humidity_chart.png) |
