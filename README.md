@@ -141,12 +141,25 @@ streamlit run streamlit_app.py
 
 | Feature | Preview |
 |---|---|
-| Dashboard Home | ![Dashboard](images/dashboard.png) |
-| Alert Panel | ![Alerts](images/alerts.png) |
+| Dashboard Home | ![Dashboard](outputs/dashboard1.png)
+![Dashboard](outputs/dashboard2.png)
+![Dashboard](outputs/dashboard3.png)
+![Dashboard](outputs/dashboard4.png)
+![Dashboard](outputs/dashboard5.png)
+![Dashboard](outputs/dashboard6.png)
+![Dashboard](outputs/dashboard7.png)|
+
 | Temperature Chart | ![Temp](outputs/temperature_chart.png) |
-| Terminal Output | ![Terminal](images/terminal_output.png) |
+| Humidity Chart | ![humidity](outputs/humidity_chart.png) |
+| Rain Chart | ![Rain](outputs/rain_chart.png) |
+| daily summary Chart | ![summary](outputs/daily_summary_chart.png) |
+
 
 ---
+
+## 🎬 Demo Video
+[▶️ Watch Demo ](https://drive.google.com/file/d/YOUR_FILE_ID/view)
+
 
 ## 🎓 Learning Outcomes
 
